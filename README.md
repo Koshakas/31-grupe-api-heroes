@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Countries API
+# Heroes API
 
 _31 group API project_
 
@@ -18,3 +18,4 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 ## Authors
 
 Rimantas: [Github](https://github.com/belauzas)
+Konstantinas [Github](https://github.com/Koshakas)
